@@ -1,0 +1,99 @@
+body {
+  font-family: sans-serif;
+  width: 710px;
+  height: 100%;
+  margin: 0 auto;
+}
+
+nav {
+  width: 25%;
+  text-align: left;
+  background-color: #808080;
+  color: white;
+  font-size: 18px;
+  padding-top: 40px;
+}
+aside {
+  width: 75%;  
+  text-align: left;
+  padding-top: 35px;
+  margin-top: -360px;
+  margin-left: 220px;
+  font-size: 18px;
+  color: #808080;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-decoration: none;
+  padding: 11.5px;
+}
+li a:hover {
+  background-color: #000000;
+}
+.table1 {
+  width: 100%;
+  padding-top: 35px;
+}
+.td1 {
+  text-align: left;
+  width: 50%;
+  font-size: 36px;
+}
+.td2 {
+  text-align: right;
+  width: 50%;
+}
+input[type="checkbox"] {
+  height: 24px;
+  width: 24px;
+  border: 1px solid silver;
+  background-color: #eee;
+}
+input[type="button"] {  
+  height: 30px;
+  background-color: white;
+  border: 1px solid silver;
+  font-size: 18px;
+}
+input[type="text"] {
+  width: 351px;
+  height: 30px;
+  background-color: white;
+  border: 1px solid silver;
+  font-size: 18px;
+}
+select {
+  height: 34px;
+  width: 357px;
+  font-size: 18px;
+  border: 1px solid silver;
+}
+option {
+  font-size: 18px;
+}
+.table2 {
+  width: 100%;
+}
+.button1 {
+  width: 135px;
+}
+.button2 {
+  width: 176px;
+}
+.button3 {
+  width: 175px;
+}
+.button4 {
+  width: 357px;
+}
+.div1 {
+  text-align: right;
+  margin-top: 10px;
+}
